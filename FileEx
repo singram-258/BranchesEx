@@ -1,4 +1,9 @@
 This is an example file made in BranchesEx repository on the main branch 
 Anything that it committed here will be committed on main branch 
 
-After using the branch use  git branch -d tempBranch
+After using the branch use git switch main to go back to main
+
+Then delete branch on git hub and use 
+git branch -d tempBranch
+
+
