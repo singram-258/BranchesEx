@@ -1,0 +1,8 @@
+This is a file made under BranchesEx but under the tempBranch
+
+I will push this branch to github using "git push --set-upstream origin tempBranch" to set new 
+branch as upstream version tagged as origin
+
+After this just use git push
+
+When checking git you will see the new branch added and will be asked to make a pull request\
