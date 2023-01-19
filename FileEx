@@ -1,2 +1,4 @@
 This is an example file made in BranchesEx repository on the main branch 
 Anything that it committed here will be committed on main branch 
+
+After using the branch use  git branch -d tempBranch
